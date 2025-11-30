@@ -40,13 +40,13 @@ Bootstrap
 
 JavaScript
 
-jQuery (included with template)
+jQuery 
 
 📥 How to Use
 
 Clone the repo:
 
-git clone https://github.com/yourusername/bethanywebsite.git
+git clone https://github.com/usmanali330/bethanywebsite.git
 
 
 Open index.html in your browser
